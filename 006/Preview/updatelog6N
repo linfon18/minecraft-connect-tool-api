@@ -1,0 +1,19 @@
+-new 新增 Panel缓存(带词典)
+-new 新增 Help-Panel
+-new 新增 P2PMode-兼容模式=Terraria
+-new 新增 P2PMode/Settings缓存库
+-new 新增 Settings-P2P传输优化(TEST)
+-new 新增 TitleBar-Reload
+-new 新增 ExtensionUI-InteractiveModal
+-new 新增 协助调试的自动复制(?)
+-new 新增 Help-Panel-"我强迫症"(UI调用测试)
+-update 更新 P2PMode-指示灯 词库
+-update 更新 常见问题-No information内容
+-fix 修复 修复因切换页面导致的数据丢失
+-fix 修复 P2PQNA无法展示默认内容
+-fix 修复 Updater无法重启到新版本问题
+-opt 优化 P2PMode-日志前端加载方式
+-opt 优化 P2PMode-加入方变量二次赋值
+-opt 优化 子Panel获取当前程序版本的方式
+======================================
+More 写的比较急,很多东西一时间没想起来
